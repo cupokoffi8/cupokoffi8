@@ -1,5 +1,5 @@
 ### Welcome! 
-##*My name is Alex, and I am an aspiring Computer Engineer from Hoboken, NJ.* 
+*My name is Alex, and I am an aspiring Computer Engineer from Hoboken, NJ.* 
 
 <!--
 **cupokoffi8/cupokoffi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
